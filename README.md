@@ -4,4 +4,6 @@ coverY: 0
 
 # 早！AI
 
-欢迎来一起共建 GPTs
+[gpts-dao-hang.md](gpts-dao-hang.md "mention")
+
+[ai-conf.md](ai-conf.md "mention")
